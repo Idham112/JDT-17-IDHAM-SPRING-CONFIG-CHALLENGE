@@ -1,0 +1,10 @@
+store:
+  name: "Indivara Mini Store"
+  city: "Jakarta"
+  currency: "IDR"
+  max-daily-order: 100
+  active: true
+
+spring:
+  application:
+    name: config.challenge
